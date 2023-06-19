@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://anuraghazra.github.io/">
+  <a href="https://iamnabilzaman.github.io/">
     <img alt="Gatsby" src="./src/static/logo_noalpha.svg" width="100" />
-    <h2 align="center">Anurag Hazra</h2>
+    <h2 align="center">Nabil Zaman</h2>
   </a>
 </p> 
-<p align="center">Creative FrontEnd Web Developer</p>
+<p align="center">Creative Android & Web Developer</p>
 
-[![Build Status](https://travis-ci.org/anuraghazra/anuraghazra.github.io.svg?branch=develop)](https://travis-ci.org/anuraghazra/anuraghazra.github.io)
+[![Build Status](https://travis-ci.org/iamnabilzaman/iamnabilzaman.github.io.svg?branch=develop)](https://travis-ci.org/iamnabilzaman/iamnabilzaman.github.io)
 ![GitHub](https://img.shields.io/github/license/anuraghazra/anuraghazra.github.io)
 ![Website](https://img.shields.io/website?down_message=offline&label=site&up_message=online&url=http%3A%2F%2Fanuraghazra.github.io)
 
